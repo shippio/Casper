@@ -20,20 +20,20 @@ workbox.precaching.precacheAndRoute([
     "revision": "dc9b48bfd9afbf11c61a751288567f07"
   },
   {
-    "url": "/_nuxt/manifest.84df218f649a53b46a6c.js",
-    "revision": "17903af84d27d1e1d20aa63fa7048475"
+    "url": "/_nuxt/manifest.43f0cc71b831c161b80e.js",
+    "revision": "785602c0f9a3d5e327e63c9c26ea5157"
   },
   {
     "url": "/_nuxt/pages/contact/index.ef42ee7acee80431ac81.js",
     "revision": "ebe154f9aafb5d62a34d9d39a17d6264"
   },
   {
-    "url": "/_nuxt/pages/corp/index.3d8d0a95f9e82e875966.js",
-    "revision": "bd1ad0f4e728ce73b891648d59ee7d0d"
+    "url": "/_nuxt/pages/corp/index.91c7443f2c76fe6aa3d9.js",
+    "revision": "55f56e442881c189c2894fc264d57160"
   },
   {
-    "url": "/_nuxt/pages/index.f71354d4e23a16e7c13b.js",
-    "revision": "158f49864d82e14bbbb7e5c64e68cccd"
+    "url": "/_nuxt/pages/index.dd59ddc33ef2e82e2d61.js",
+    "revision": "f25774c7f97afd3a1b159d1c809e6026"
   },
   {
     "url": "/_nuxt/pages/inquiry/cargo.753d317913d42730d3a5.js",
